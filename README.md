@@ -8,6 +8,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning TypeScript and React Native
 - 📫 You can reach me at richard.au04@gmail.com
 
-<p align="right">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=au-richard)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=au-richard)](https://github.com/anuraghazra/github-readme-stats" alt="Top Stats"></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=au-richard&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=au-richard&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>

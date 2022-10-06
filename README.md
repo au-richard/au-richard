@@ -11,6 +11,9 @@ You can click the Preview link to take a look at your changes.
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=au-richard&show_icons=true&locale=en" alt="Top Stats"></p>
 <br />
 <br />
+<br />
+<br />
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=au-richard&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->

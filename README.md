@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can reach me at richard.au04@gmail.com
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=au-richard&show_icons=true&locale=en" width="400" height="300" alt="Top Stats"></p>
+<!-- <br />
 <br />
-<br />
-<br />
+<br /> -->
 <!-- <br />
 <br />
 <br /> -->

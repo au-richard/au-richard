@@ -36,5 +36,25 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>JavaScript</strong>
     </td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="55" height="55" alt="TypeScript image" />
+      <br />
+      <strong>TypeScript</strong>
+    </td>
+    <td>
+      <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" width="55" height="55" alt="HTML5 image" />
+      <br />
+      <strong>HTML</strong>
+    </td>
+    <td>
+      <img src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" width="55" height="55" alt="CSS3 image" />
+      <br />
+      <strong>CSS</strong>
+    </td>
+    <td>
+      <img src="https://en.wikipedia.org/wiki/Ruby_(programming_language)#/media/File:Ruby_logo.svg" width="55" height="55" alt="Ruby image" />
+      <br />
+      <strong>Ruby</strong>
+    </td>
   </tr>
 </table>

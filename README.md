@@ -57,4 +57,16 @@ You can click the Preview link to take a look at your changes.
       <strong>Ruby</strong>
     </td>
   </tr>
+  <tr>
+    <td align=""center><strong>Frameworks & Libraries</strong></td>
+  </tr>
+  <tr>
+    <td align=""center><strong>Databases</strong></td>
+  </tr>
+  <tr>
+    <td align=""center><strong>Testing</strong></td>
+  </tr>
+  <tr>
+    <td align=""center><strong>Version Control, CMS</strong></td>
+  </tr>
 </table>

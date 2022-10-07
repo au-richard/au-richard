@@ -34,27 +34,27 @@ You can click the Preview link to take a look at your changes.
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="55" height="55" alt="JavaScript image" />
       <br />
-      <strong>JavaScript</strong>
+      <strong align="center">JavaScript</strong>
     </td>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="55" height="55" alt="TypeScript image" />
       <br />
-      <strong>TypeScript</strong>
+      <strong align="center">TypeScript</strong>
     </td>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="55" height="55" alt="HTML5 image" />
       <br />
-      <strong>HTML</strong>
+      <strong align="center">HTML</strong>
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="55" height="55" alt="CSS3 image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="55" height="55" alt="CSS3 image" />
       <br />
-      <strong>CSS</strong>
+      <strong align="center">CSS</strong>
     </td>
     <td>
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="55" height="55" alt="Ruby image" />
       <br />
-      <strong>Ruby</strong>
+      <strong align="center">Ruby</strong>
     </td>
   </tr>
 </table>

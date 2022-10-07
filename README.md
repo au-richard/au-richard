@@ -71,4 +71,6 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
+<br />
+
 ![](https://komarev.com/ghpvc/?username=au-richard&color=orange)

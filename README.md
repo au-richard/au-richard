@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
       <strong>HTML</strong>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="55" height="55" alt="CSS3 image" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55" alt="CSS3 image" />
       <br />
       <strong>CSS</strong>
     </td>

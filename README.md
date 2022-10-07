@@ -42,17 +42,17 @@ You can click the Preview link to take a look at your changes.
       <strong>TypeScript</strong>
     </td>
     <td>
-      <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" width="55" height="55" alt="HTML5 image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="55" height="55" alt="HTML5 image" />
       <br />
       <strong>HTML</strong>
     </td>
     <td>
-      <img src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" width="55" height="55" alt="CSS3 image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="55" height="55" alt="CSS3 image" />
       <br />
       <strong>CSS</strong>
     </td>
     <td>
-      <img src="https://en.wikipedia.org/wiki/Ruby_(programming_language)#/media/File:Ruby_logo.svg" width="55" height="55" alt="Ruby image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="55" height="55" alt="Ruby image" />
       <br />
       <strong>Ruby</strong>
     </td>

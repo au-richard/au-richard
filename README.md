@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 You can reach me at richard.au04@gmail.com
 - 💼 Feel free to connect with me on LinkedIn <a href="https://www.linkedin.com/in/aurichard4/">LinkedIn Profile</a>
   <!-- width="400" height="300" -->
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=au-richard&show_icons=true&locale=en" width="400" height="200" alt="Top Stats"></p>
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=au-richard&show_icons=true&locale=en" width="400" height="170" alt="Top Stats"></p>
   <!-- <br />
   <br />
   <br /> -->

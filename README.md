@@ -90,17 +90,17 @@ You can click the Preview link to take a look at your changes.
       <strong>Bootstrap</strong>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" width="55" height="55" alt="Ajax image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" width="55" height="55" alt="Ajax image" />
       <br />
       <strong>Ajax</strong>
     </td>
     <td align="center">
-      <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" width="55" height="55" alt="jQuery image" />
+      <img src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" width="55" height="55" alt="jQuery image" />
       <br />
       <strong>jQuery</strong>
     </td>
     <td align="center">
-      <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" width="55" height="55" alt="EJS image" />
+      <img src="https://uspto.report/TM/77767242/mark" width="55" height="55" alt="EJS image" />
       <br />
       <strong>EJS</strong>
     </td>
@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
       <strong>Rails</strong>
     </td>
     <td align="center">
-      <img src="http://filippomariaraeli.com/post/leaflet/summary/featured.png" width="55" height="55" alt="Leaflet image" />
+      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/leaflet-1-logo.png" width="55" height="55" alt="Leaflet image" />
       <br />
       <strong>Leaflet</strong>
     </td>

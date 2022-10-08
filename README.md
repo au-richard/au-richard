@@ -99,13 +99,13 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>jQuery</strong>
     </td>
-    <td align="center" width="70">
+    <td align="center" width="85">
       <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" width="85" height="55" alt="EJS image" />
       <br />
       <strong>EJS</strong>
     </td>
-    <td align="center" width="70">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" width="55" height="55" alt="Rails image" />
+    <td align="center" width="85">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" width="85" height="55" alt="Rails image" />
       <br />
       <strong>Rails</strong>
     </td>

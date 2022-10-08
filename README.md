@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
       <strong>React</strong>
     </td>
     <td align="center">
-      <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" width="55" height="55" alt="React Native image" />
+      <img src="https://pajaaleksic.com/wp-content/uploads/2019/07/react-native-workshop.jpg" width="55" height="55" alt="React Native image" />
       <br />
       <strong>React Native</strong>
     </td>

@@ -31,27 +31,27 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td align="center"><strong>Languages</strong></td>
-    <td>
+    <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" width="55" height="55" alt="JavaScript image" />
       <br />
       <strong>JavaScript</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="55" height="55" alt="TypeScript image" />
       <br />
       <strong>TypeScript</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="55" height="55" alt="HTML5 image" />
       <br />
       <strong>HTML</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55" alt="CSS3 image" />
       <br />
       <strong>CSS</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="55" height="55" alt="Ruby image" />
       <br />
       <strong>Ruby</strong>
@@ -59,57 +59,57 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td align=""center><strong>Frameworks & Libraries</strong></td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://www.clipartmax.com/png/middle/89-894960_js-discord-bot-logo-node-js-and-react-js.png" width="55" height="55" alt="NodeJS image" />
       <br />
       <strong>NodeJS</strong>
     </td>
-      <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" width="55" height="55" alt="Express image" />
       <br />
       <strong>Express</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="55" height="55" alt="React image" />
       <br />
       <strong>React</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
       <br />
       <strong>React Native</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="55" height="55" alt="SASS image" />
       <br />
       <strong>SASS</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="55" height="55" alt="Bootstrap image" />
       <br />
       <strong>Bootstrap</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="http://weboutsourcing-gateway.com/blog/wp-content/uploads/2020/06/AJAX3.gif" width="55" height="55" alt="Ajax image" />
       <br />
       <strong>Ajax</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" width="55" height="55" alt="jQuery image" />
       <br />
       <strong>jQuery</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" width="90" height="65" alt="EJS image" />
       <br />
       <strong>EJS</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" width="90" height="65" alt="Rails image" />
       <br />
       <strong>Rails</strong>
     </td>
-    <td align="center">
+    <td align="center" height="108" width="108">
       <img src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" width="55" height="55" alt="Leaflet image" />
       <br />
       <strong>Leaflet</strong>

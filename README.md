@@ -100,17 +100,17 @@ You can click the Preview link to take a look at your changes.
       <strong>jQuery</strong>
     </td>
     <td align="center">
-      <img src="https://www.kindpng.com/picc/m/463-4639889_logo-ejs-hd-png-download.png" width="55" height="55" alt="EJS image" />
+      <img src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg" width="55" height="55" alt="EJS image" />
       <br />
       <strong>EJS</strong>
     </td>
     <td align="center">
-      <img src="https://e7.pngegg.com/pngimages/782/228/png-clipart-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo.png" width="55" height="55" alt="Rails image" />
+      <img src="https://www.kindpng.com/picc/m/12-120961_logo-ruby-on-rails-hd-png-download.png" width="55" height="55" alt="Rails image" />
       <br />
       <strong>Rails</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/leaflet-1-logo.png" width="55" height="55" alt="Leaflet image" />
+      <img src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" width="55" height="55" alt="Leaflet image" />
       <br />
       <strong>Leaflet</strong>
     </td>

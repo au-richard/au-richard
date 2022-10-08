@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Full-Stack Software Developer</h1>
 
 - 👀 I’m interested in Playing basketball,
-- 🌱 I’m currently learning TypeScript and React Native
-- 📫 You can reach me at richard.au04@gmail.com
+- 📝 I’m currently learning TypeScript and React Native
+- 📧 You can reach me at richard.au04@gmail.com
 - 💼 Feel free to connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/aurichard4 "My LinkedIn Page")
     <!-- width="400" height="300" -->
     <p align="left">
@@ -59,6 +59,11 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td align=""center><strong>Frameworks & Libraries</strong></td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="55" height="55" alt="NodeJS image" />
+      <br />
+      <strong>NodeJS</strong>
+    </td>
   </tr>
   <tr>
     <td align=""center><strong>Databases</strong></td>

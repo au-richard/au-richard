@@ -90,7 +90,7 @@ You can click the Preview link to take a look at your changes.
       <strong>Bootstrap</strong>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" width="75" height="55" alt="Ajax image" />
+      <img src="http://weboutsourcing-gateway.com/blog/wp-content/uploads/2020/06/AJAX3.gif" width="55" height="55" alt="Ajax image" />
       <br />
       <strong>Ajax</strong>
     </td>

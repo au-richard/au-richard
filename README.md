@@ -100,12 +100,12 @@ You can click the Preview link to take a look at your changes.
       <strong>jQuery</strong>
     </td>
     <td align="center">
-      <img src="https://uspto.report/TM/77767242/mark" width="55" height="55" alt="EJS image" />
+      <img src="https://www.kindpng.com/picc/m/463-4639889_logo-ejs-hd-png-download.png" width="55" height="55" alt="EJS image" />
       <br />
       <strong>EJS</strong>
     </td>
     <td align="center">
-      <img src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png:large" width="55" height="55" alt="Rails image" />
+      <img src="https://e7.pngegg.com/pngimages/782/228/png-clipart-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo.png" width="55" height="55" alt="Rails image" />
       <br />
       <strong>Rails</strong>
     </td>

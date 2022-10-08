@@ -89,35 +89,31 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>Bootstrap</strong>
     </td>
-    <!-- <td align="center">
-      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
-      <br />
-      <strong>React Native</strong>
-    </td>
     <td align="center">
-      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
+      <img src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" width="55" height="55" alt="Ajax image" />
       <br />
       <strong>Ajax</strong>
     </td>
     <td align="center">
-      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
+      <img src="https://openjsf.org/wp-content/uploads/sites/84/2019/10/jquery-logo-vertical_large_square.png" width="55" height="55" alt="jQuery image" />
       <br />
       <strong>jQuery</strong>
     </td>
     <td align="center">
-      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
+      <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" width="55" height="55" alt="EJS image" />
       <br />
       <strong>EJS</strong>
     </td>
     <td align="center">
-      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
+      <img src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png:large" width="55" height="55" alt="Rails image" />
       <br />
       <strong>Rails</strong>
-      <td align="center">
-      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
+    </td>
+    <td align="center">
+      <img src="http://filippomariaraeli.com/post/leaflet/summary/featured.png" width="55" height="55" alt="Leaflet image" />
       <br />
       <strong>Leaflet</strong>
-    </td>-->
+    </td>
   </tr> 
   <tr>
     <td align=""center><strong>Databases</strong></td>

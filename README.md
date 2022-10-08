@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
       <strong>SASS</strong>
     </td>
     <td align="center">
-      <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png" width="55" height="55" alt="Bootstrap image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="55" height="55" alt="Bootstrap image" />
       <br />
       <strong>Bootstrap</strong>
     </td>

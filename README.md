@@ -100,7 +100,7 @@ You can click the Preview link to take a look at your changes.
       <strong>jQuery</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" width="90" height="65" alt="EJS image" />
+      <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" width="55" height="65" alt="EJS image" />
       <br />
       <strong>EJS</strong>
     </td>

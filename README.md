@@ -70,7 +70,7 @@ You can click the Preview link to take a look at your changes.
       <strong>Express</strong>
     </td>
     <td align="center">
-      <img src="https://reactjs.org/logo-og.png" width="55" height="55" alt="React image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="55" height="55" alt="React image" />
       <br />
       <strong>React</strong>
     </td>

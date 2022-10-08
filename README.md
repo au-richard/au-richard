@@ -79,7 +79,27 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>React Native</strong>
     </td>
-  </tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="55" height="55" alt="SASS image" />
+      <br />
+      <strong>SASS</strong>
+    </td>
+    <!-- <td align="center">
+      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
+      <br />
+      <strong>React Native</strong>
+    </td>
+    <td align="center">
+      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
+      <br />
+      <strong>React Native</strong>
+    </td>
+    <td align="center">
+      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
+      <br />
+      <strong>React Native</strong>
+    </td>
+  </tr> -->
   <tr>
     <td align=""center><strong>Databases</strong></td>
   </tr>

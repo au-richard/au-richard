@@ -64,6 +64,11 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>NodeJS</strong>
     </td>
+      <td align="center">
+      <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" width="55" height="55" alt="Express image" />
+      <br />
+      <strong>Express</strong>
+    </td>
   </tr>
   <tr>
     <td align=""center><strong>Databases</strong></td>

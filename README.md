@@ -69,6 +69,16 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>Express</strong>
     </td>
+    <td align="center">
+      <img src="https://reactjs.org/logo-og.png" width="55" height="55" alt="React image" />
+      <br />
+      <strong>React</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" width="55" height="55" alt="React Native image" />
+      <br />
+      <strong>React Native</strong>
+    </td>
   </tr>
   <tr>
     <td align=""center><strong>Databases</strong></td>

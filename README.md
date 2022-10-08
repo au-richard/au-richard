@@ -117,9 +117,8 @@ You can click the Preview link to take a look at your changes.
       <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="55" height="55" alt="React Native image" />
       <br />
       <strong>Leaflet</strong>
-    </td>
-    </td>
-  </tr> -->
+    </td>-->
+  </tr> 
   <tr>
     <td align=""center><strong>Databases</strong></td>
   </tr>

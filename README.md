@@ -60,7 +60,7 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td align=""center><strong>Frameworks & Libraries</strong></td>
     <td align="center">
-      <img src="https://img.favpng.com/16/11/19/node-js-javascript-web-application-express-js-computer-software-png-favpng-cYmJvJyBDcTNbLdSRdNAceLyW.jpg" width="55" height="55" alt="NodeJS image" />
+      <img src="https://www.logolynx.com/images/logolynx/c5/c509c38cb89bcf556b2051222663f398.png" width="55" height="55" alt="NodeJS image" />
       <br />
       <strong>NodeJS</strong>
     </td>

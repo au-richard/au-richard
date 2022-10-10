@@ -117,6 +117,16 @@ You can click the Preview link to take a look at your changes.
   </tr> 
   <tr>
     <td align=""center><strong>Databases</strong></td>
+    <td align="center" height="108" width="108">
+      <img src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" width="55" height="55" alt="PostgreSQL image" />
+      <br />
+      <strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" width="55" height="55" alt="ElephantSQL image" />
+      <br />
+      <strong>ElephantSQL</strong>
+    </td>
   </tr>
   <tr>
     <td align=""center><strong>Testing</strong></td>

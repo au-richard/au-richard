@@ -130,6 +130,41 @@ You can click the Preview link to take a look at your changes.
   </tr>
   <tr>
     <td align=""center><strong>Testing</strong></td>
+     <td align="center" height="108" width="108">
+      <img src="https://pbs.twimg.com/profile_images/2661035254/f1797e21af006ca889d3e5f39293fca1_400x400.png" width="55" height="55" alt="Mocha image" />
+      <br />
+      <strong>Mocha</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img src="https://pbs.twimg.com/profile_images/2661035254/f1797e21af006ca889d3e5f39293fca1_400x400.png" width="55" height="55" alt="Chai image" />
+      <br />
+      <strong>Chai</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img src="https://pbs.twimg.com/profile_images/2661035254/f1797e21af006ca889d3e5f39293fca1_400x400.png" width="55" height="55" alt="Storybook image" />
+      <br />
+      <strong>Storybook</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img src="https://pbs.twimg.com/profile_images/2661035254/f1797e21af006ca889d3e5f39293fca1_400x400.png" width="55" height="55" alt="Cypress image" />
+      <br />
+      <strong>Cypress</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img src="https://pbs.twimg.com/profile_images/2661035254/f1797e21af006ca889d3e5f39293fca1_400x400.png" width="55" height="55" alt="Jest image" />
+      <br />
+      <strong>Jest</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img src="https://pbs.twimg.com/profile_images/2661035254/f1797e21af006ca889d3e5f39293fca1_400x400.png" width="55" height="55" alt="RSpec image" />
+      <br />
+      <strong>RSpec</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img src="https://pbs.twimg.com/profile_images/2661035254/f1797e21af006ca889d3e5f39293fca1_400x400.png" width="55" height="55" alt="Capybara image" />
+      <br />
+      <strong>Capybara</strong>
+    </td>
   </tr>
   <tr>
     <td align=""center><strong>Version Control, CMS</strong></td>

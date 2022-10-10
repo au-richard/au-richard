@@ -151,7 +151,7 @@ You can click the Preview link to take a look at your changes.
       <strong>Cypress</strong>
     </td>
      <td align="center" height="108" width="108">
-      <img src="https://ih1.redbubble.net/image.404020083.1876/mp,504x498,matte,f8f8f8,t-pad,600x600,f8f8f8.u7.jpg" width="55" height="55" alt="Jest image" />
+      <img src="https://ih1.redbubble.net/image.404023266.1965/fpp,small,lustre,wall_texture,product,750x1000.u2.jpg" width="55" height="55" alt="Jest image" />
       <br />
       <strong>Jest</strong>
     </td>

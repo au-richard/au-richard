@@ -118,12 +118,12 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td align=""center><strong>Databases</strong></td>
     <td align="center" height="108" width="108">
-      <img src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" width="55" height="55" alt="PostgreSQL image" />
+      <img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" width="55" height="55" alt="PostgreSQL image" />
       <br />
       <strong>PostgreSQL</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" width="55" height="55" alt="ElephantSQL image" />
+      <img src="https://www.elephantsql.com/images/postgresql-as-a-service-elephantsql.png" width="55" height="55" alt="ElephantSQL image" />
       <br />
       <strong>ElephantSQL</strong>
     </td>

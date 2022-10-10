@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
       <strong>React Native</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png" width="55" height="55" alt="SASS image" />
+      <img src="https://img.favpng.com/0/15/21/sass-style-sheet-language-cascading-style-sheets-logo-png-favpng-JrFmbSL7eyDhrZFE7nWjmSTKL.jpg" width="55" height="55" alt="SASS image" />
       <br />
       <strong>SASS</strong>
     </td>

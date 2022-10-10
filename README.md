@@ -151,7 +151,7 @@ You can click the Preview link to take a look at your changes.
       <strong>Cypress</strong>
     </td>
      <td align="center" height="108" width="108">
-      <img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" width="55" height="55" alt="Jest image" />
+      <img src="https://user-images.githubusercontent.com/10525473/50372432-95dcd880-0611-11e9-9432-58de9be26b3b.png" width="55" height="55" alt="Jest image" />
       <br />
       <strong>Jest</strong>
     </td>

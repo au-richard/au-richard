@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
       <strong>React Native</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="55" height="55" alt="SASS image" />
+      <img src="https://www.pngfind.com/pngs/m/452-4521456_scss-logo-hd-png-download.png" width="55" height="55" alt="SASS image" />
       <br />
       <strong>SASS</strong>
     </td>

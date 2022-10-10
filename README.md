@@ -123,7 +123,7 @@ You can click the Preview link to take a look at your changes.
       <strong>PostgreSQL</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://www.elephantsql.com/images/postgresql-as-a-service-elephantsql.png" width="55" height="55" alt="ElephantSQL image" />
+      <img src="https://pbs.twimg.com/profile_images/2661035254/f1797e21af006ca889d3e5f39293fca1_400x400.png" width="55" height="55" alt="ElephantSQL image" />
       <br />
       <strong>ElephantSQL</strong>
     </td>

@@ -169,12 +169,12 @@ You can click the Preview link to take a look at your changes.
   <tr>
     <td align=""center><strong>Version Control, CMS</strong></td>
     <td align="center" height="108" width="108">
-      <img src="https://www.braveterry.com/wp-content/uploads/2015/01/capybara.jpg" width="55" height="55" alt="Git image" />
+      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="55" height="55" alt="Git image" />
       <br />
       <strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://www.braveterry.com/wp-content/uploads/2015/01/capybara.jpg" width="55" height="55" alt="Linux image" />
+      <img src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" width="55" height="55" alt="Linux image" />
       <br />
       <strong>Linux</strong>
     </td>

@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi, I'm Richard Au. Welcome to my Github Profile!</h1>
 <h2 align="center">Full-Stack Software Developer</h1>
 
-- 👀 I’m interested in Playing basketball,
+- 👀 I’m interested in playing basketball, and reading/watching the latest tech releases and tech news
 - 📝 I’m currently learning TypeScript and React Native
 - 📧 You can reach me at richard.au04@gmail.com
 - 💼 Feel free to connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/aurichard4 "My LinkedIn Page")

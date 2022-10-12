@@ -14,17 +14,6 @@ You can click the Preview link to take a look at your changes.
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=au-richard&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=au-richard&show_icons=true&locale=en" width="400" height="170" alt="Top Stats">
     </p>
-    <!-- <br />
-    <br />
-    <br /> -->
-    <!-- <br />
-    <br />
-    <br /> -->
-    <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=au-richard&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p> -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- <br /> -->
 
 # ⚙️ Languages & Tools
 
@@ -55,6 +44,11 @@ You can click the Preview link to take a look at your changes.
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="55" height="55" alt="Ruby image" />
       <br />
       <strong>Ruby</strong>
+    </td>
+       <td align="center" height="108" width="108">
+      <img src="http://cdn.onlinewebfonts.com/svg/img_5361.png" width="55" height="55" alt="SQL image" />
+      <br />
+      <strong>SQL</strong>
     </td>
   </tr>
   <tr>

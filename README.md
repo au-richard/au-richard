@@ -108,7 +108,7 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>Leaflet</strong>
     </td>
-  </tr> 
+  </tr>
   <tr>
     <td align=""center><strong>Databases</strong></td>
     <td align="center" height="108" width="108">
@@ -121,7 +121,19 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>ElephantSQL</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55" alt="Firebase image" />
+      <br />
+      <strong>Firebase</strong>
+    </td>
   </tr>
+    <tr>
+    <td align=""center><strong>Cloud</strong></td>
+        <td align="center" height="108" width="108">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png" width="55" height="55" alt="Google Cloud image" />
+      <br />
+      <strong>Google Cloud</strong>
+  </tr> 
   <tr>
     <td align=""center><strong>Testing</strong></td>
     <td align="center" height="108" width="108">

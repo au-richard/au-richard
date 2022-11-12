@@ -132,7 +132,7 @@ You can click the Preview link to take a look at your changes.
         <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png" width="55" height="55" alt="Google Cloud image" />
       <br />
-      <strong>Google Cloud</strong>
+      <strong>Google Cloud Platform</strong>
   </tr> 
   <tr>
     <td align=""center><strong>Testing</strong></td>

@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-    <td align=""center><strong>Frameworks & Libraries</strong></td>
+    <td align="center"><strong>Frameworks & Libraries</strong></td>
     <td align="center" height="108" width="108">
       <img src="https://www.clipartmax.com/png/middle/89-894960_js-discord-bot-logo-node-js-and-react-js.png" width="48" height="48" alt="NodeJS image" />
       <br />
@@ -112,7 +112,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-    <td align=""center><strong>Databases</strong></td>
+    <td align="center"><strong>Databases</strong></td>
     <td align="center" height="108" width="108">
       <img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" width="48" height="48" alt="PostgreSQL image" />
       <br />
@@ -130,7 +130,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
     <tr>
-    <td align=""center><strong>Cloud</strong></td>
+    <td align="center"><strong>Cloud</strong></td>
         <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png" width="48" height="48" alt="Google Cloud image" />
       <br />
@@ -175,7 +175,7 @@ You can click the Preview link to take a look at your changes.
     </td>
   </tr>
   <tr>
-    <td align=""center><strong>Version Control, OS</strong></td>
+    <td align="center"><strong>Version Control, OS</strong></td>
     <td align="center" height="108" width="108">
       <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="Git image" />
       <br />

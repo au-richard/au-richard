@@ -132,44 +132,44 @@ You can click the Preview link to take a look at your changes.
     <tr>
     <td align="center"><strong>Cloud</strong></td>
         <td align="center" height="108" width="108">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png" width="48" height="48" alt="Google Cloud image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/2048px-Google-cloud-platform.svg.png" width="40" height="48" alt="Google Cloud image" />
       <br />
       <strong>Google Cloud Platform</strong>
   </tr> 
   <tr>
     <td align="center"><strong>Testing</strong></td>
-    <td align="center" height="108" width="90">
-      <img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" width="48" height="48" alt="Mocha image" />
+    <td align="center" height="108" width="108">
+      <img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" width="40" height="48" alt="Mocha image" />
       <br />
       <strong>Mocha</strong>
     </td>
-    <td align="center" height="108" width="90">
-      <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" width="48" height="48" alt="Chai image" />
+    <td align="center" height="108" width="108">
+      <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" width="40" height="48" alt="Chai image" />
       <br />
       <strong>Chai</strong>
     </td>
-    <td align="center" height="108" width="90">
-      <img src="https://img.stackshare.io/service/4906/default_db6159e1ae3d61e909d2c05d5a2c6990bdc6088f.png" width="48" height="48" alt="Storybook image" />
+    <td align="center" height="108" width="108">
+      <img src="https://img.stackshare.io/service/4906/default_db6159e1ae3d61e909d2c05d5a2c6990bdc6088f.png" width="48" height="40" alt="Storybook image" />
       <br />
       <strong>Storybook</strong>
     </td>
-    <td align="center" height="108" width="90">
-      <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" width="48" height="48" alt="Cypress image" />
+    <td align="center" height="108" width="108">
+      <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" width="40" height="48" alt="Cypress image" />
       <br />
       <strong>Cypress</strong>
     </td>
-    <td align="center" height="108" width="90">
+    <td align="center" height="108" width="108">
       <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="48" height="48" alt="Jest image" />
       <br />
       <strong>Jest</strong>
     </td>
-    <td align="center" height="108" width="90">
-      <img src="https://rspec.info/images/logo_ogp.png" width="48" height="48" alt="RSpec image" />
+    <td align="center" height="108" width="108">
+      <img src="https://rspec.info/images/logo_ogp.png" width="40" height="48" alt="RSpec image" />
       <br />
       <strong>RSpec</strong>
     </td>
-    <td align="center" height="108" width="90">
-      <img src="https://www.braveterry.com/wp-content/uploads/2015/01/capybara.jpg" width="48" height="48" alt="Capybara image" />
+    <td align="center" height="108" width="108">
+      <img src="https://www.braveterry.com/wp-content/uploads/2015/01/capybara.jpg" width="40" height="48" alt="Capybara image" />
       <br />
       <strong>Capybara</strong>
     </td>

@@ -137,7 +137,7 @@ You can click the Preview link to take a look at your changes.
       <strong>Google Cloud Platform</strong>
   </tr> 
   <tr>
-    <td align=""center><strong>Testing</strong></td>
+    <td align="center"><strong>Testing</strong></td>
     <td align="center" height="108" width="108">
       <img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" width="48" height="48" alt="Mocha image" />
       <br />

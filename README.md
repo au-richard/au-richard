@@ -171,7 +171,7 @@ You can click the Preview link to take a look at your changes.
     <td align="center" height="108" width="80">
       <img src="https://www.braveterry.com/wp-content/uploads/2015/01/capybara.jpg" width="40" height="48" alt="Capybara image" />
       <br />
-      <strong width="30">Capybara</strong>
+      <strong width="20">Capybara</strong>
     </td>
   </tr>
   <tr>

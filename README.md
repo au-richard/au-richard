@@ -168,10 +168,10 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>RSpec</strong>
     </td>
-    <td align="center" height="108" width="70">
-      <img src="https://www.braveterry.com/wp-content/uploads/2015/01/capybara.jpg" width="35" height="48" alt="Capybara image" />
+    <td align="center" height="108" width="80">
+      <img src="https://www.braveterry.com/wp-content/uploads/2015/01/capybara.jpg" width="40" height="48" alt="Capybara image" />
       <br />
-      <strong>Capybara</strong>
+      <strong width="30">Capybara</strong>
     </td>
   </tr>
   <tr>

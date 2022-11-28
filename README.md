@@ -88,6 +88,8 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>Ajax</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" width="48" height="48" alt="jQuery image" />
       <br />

@@ -108,7 +108,7 @@ You can click the Preview link to take a look at your changes.
     <td align="center" height="108" width="108">
       <img src="https://w7.pngwing.com/pngs/347/210/png-transparent-leaflet-javascript-library-web-browser-plug-in-software-framework-others-leaf-rss-map.png" width="48" height="48" alt="Leaflet image" />
       <br />
-      <strong>Leaflet</strong>
+      <strong>Leaflet</strong> 
     </td> 
   </tr> 
   <tr> 

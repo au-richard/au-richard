@@ -110,7 +110,7 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>Leaflet</strong>
     </td>
-  </tr>
+  </tr> 
   <tr> 
     <td align="center"><strong>Databases</strong></td>
     <td align="center" height="108" width="108">

@@ -116,7 +116,7 @@ You can click the Preview link to take a look at your changes.
     <td align="center" height="108" width="108">
       <img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" width="48" height="48" alt="PostgreSQL image" />
       <br />
-      <strong>PostgreSQL</strong>
+      <strong>PostgreSQL</strong> 
     </td>
     <td align="center" height="108" width="108">
       <img src="https://pbs.twimg.com/profile_images/2661035254/f1797e21af006ca889d3e5f39293fca1_400x400.png" width="48" height="48" alt="ElephantSQL image" />

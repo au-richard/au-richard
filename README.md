@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
       <strong>jQuery</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://pbs.twimg.com/profile_images/833789473376854018/skScegH6_400x400.jpg" width="55" height="55" alt="EJS image" />
+      <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" width="55" height="55" alt="EJS image" />
       <br />
       <strong>EJS</strong>
     </td>

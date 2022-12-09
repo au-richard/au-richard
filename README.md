@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
       <strong>jQuery</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://adampower.io/images/Technology_Logos/EJS_Logo.png" width="55" height="55" alt="EJS image" />
+      <img src="https://www.kindpng.com/picc/m/463-4639889_logo-ejs-hd-png-download.png" width="55" height="55" alt="EJS image" />
       <br />
       <strong>EJS</strong>
     </td>

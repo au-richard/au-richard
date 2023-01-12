@@ -41,9 +41,9 @@ You can click the Preview link to take a look at your changes.
       <strong>CSS</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="48" height="48" alt="Ruby image" />
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/dart-logo-svg-vector.svg" width="48" height="48" alt="Dart image" />
       <br />
-      <strong>Ruby</strong>
+      <strong>Dart</strong>
     </td>
     <td align="center" height="108" width="108">
       <img src="http://cdn.onlinewebfonts.com/svg/img_5361.png" width="48" height="48" alt="SQL image" />
@@ -51,9 +51,9 @@ You can click the Preview link to take a look at your changes.
       <strong>SQL</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/dart-logo-svg-vector.svg" width="48" height="48" alt="Dart image" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="48" height="48" alt="Ruby image" />
       <br />
-      <strong>Dart</strong>
+      <strong>Ruby</strong>
     </td>
   </tr>
   <tr>

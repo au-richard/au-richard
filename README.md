@@ -45,10 +45,15 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>Ruby</strong>
     </td>
-       <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img src="http://cdn.onlinewebfonts.com/svg/img_5361.png" width="48" height="48" alt="SQL image" />
       <br />
       <strong>SQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/dart-logo-svg-vector.svg" width="48" height="48" alt="Dart image" />
+      <br />
+      <strong>Dart</strong>
     </td>
   </tr>
   <tr>
@@ -74,6 +79,11 @@ You can click the Preview link to take a look at your changes.
       <strong>React Native</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="48" height="48" alt="Flutter image" />
+      <br />
+      <strong>Flutter</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="58" height="48" alt="SASS image" />
       <br />
       <strong>SASS</strong>
@@ -83,13 +93,13 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>Bootstrap</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img src="http://weboutsourcing-gateway.com/blog/wp-content/uploads/2020/06/AJAX3.gif" width="48" height="48" alt="Ajax image" />
       <br />
       <strong>Ajax</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img src="https://www.joykal.com/wp-content/uploads/2019/09/jquery.png" width="48" height="48" alt="jQuery image" />
       <br />
@@ -172,6 +182,14 @@ You can click the Preview link to take a look at your changes.
       <img src="https://www.braveterry.com/wp-content/uploads/2015/01/capybara.jpg" width="48" height="48" alt="Capybara image" />
       <br />
       <strong width="20">Capybara</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Game Development</strong></td>
+    <td align="center" height="108" width="108">
+      <img src="https://alternative.me/media/256/gamemaker-icon-l3s22cd91hciaaym-c.png" width="48" height="48" alt="GameMaker image" />
+      <br />
+      <strong>GameMaker</strong>
     </td>
   </tr>
   <tr>

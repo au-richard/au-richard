@@ -15,6 +15,8 @@ You can click the Preview link to take a look at your changes.
       <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=au-richard&show_icons=true&locale=en" width="390" height="180" alt="Top Stats">
     </p>
 
+<br />
+
 # ⚙️ Languages & Tools
 
 <table>

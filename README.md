@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- width="400" height="300" -->
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=au-richard&langs_count=12&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="45%" alt="Top Languages" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=au-richard&show_icons=true&locale=en" width="50%" alt="Top Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=au-richard&langs_count=12&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="50%" alt="Top Languages" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=au-richard&show_icons=true&locale=en" width="45%" alt="Top Stats">
 </p>
 
 <br />

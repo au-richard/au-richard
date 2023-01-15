@@ -9,6 +9,8 @@ You can click the Preview link to take a look at your changes.
 - 📝 I’m currently learning TypeScript and React Native
 - 📧 You can reach me at richard.au04@gmail.com
 - 💼 Feel free to connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/aurichard4 "My LinkedIn Page")
+
+<br />
     <!-- width="400" height="300" -->
     <p align="left">
       <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=au-richard&langs_count=12&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="45%" alt="Top Languages" />

@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 - 💼 Feel free to connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/aurichard4 "My LinkedIn Page")
     <!-- width="400" height="300" -->
     <p align="left">
-      <img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=au-richard&langs_count=12&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="400" height="250" alt="Top Languages" />
-      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=au-richard&show_icons=true&locale=en" width="390" height="180" alt="Top Stats">
+      <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=au-richard&langs_count=12&hide=yacc,cmake&show_icons=true&locale=en&layout=compact" width="45%" alt="Top Languages" />
+      <img align="right" src="https://github-readme-stats-eight-theta.vercel.app/api?username=au-richard&show_icons=true&locale=en" width="50%" alt="Top Stats">
     </p>
 
 <br />

@@ -116,6 +116,11 @@ You can click the Preview link to take a look at your changes.
       <strong>EJS</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="55" height="55" alt="Babel image" />
+      <br />
+      <strong>Babel</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="https://cdn.iconscout.com/icon/free/png-256/rails-3521664-2945108.png" width="48" height="48" alt="Rails image" />
       <br />
       <strong>Rails</strong>

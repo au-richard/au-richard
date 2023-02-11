@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Full-Stack Software Developer</h1>
 
 - 👀 I’m interested in playing basketball, and reading/watching the latest tech releases and tech news
-- 📝 I’m currently learning TypeScript and React Native
+- 📝 I’m currently learning Dart and Flutter
 - 📧 You can reach me at richard.au04@gmail.com
 - 💼 Feel free to connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/aurichard4 "My LinkedIn Page")
 

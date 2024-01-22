@@ -51,6 +51,11 @@ You can click the Preview link to take a look at your changes.
       <strong>Dart</strong>
     </td>
     <td align="center" height="108" width="108">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1200px-Kotlin_Icon_2021.svg.png" width="48" height="48" alt="Kotlin image" />
+      <br />
+      <strong>Kotlin</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img src="http://cdn.onlinewebfonts.com/svg/img_5361.png" width="48" height="48" alt="SQL image" />
       <br />
       <strong>SQL</strong>
@@ -69,7 +74,7 @@ You can click the Preview link to take a look at your changes.
       <strong>NodeJS</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://skillshack.blob.core.windows.net/uploads/express.webp" width="48" height="48" alt="Express image" />
+      <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="48" height="48" alt="Express image" />
       <br />
       <strong>Express</strong>
     </td>

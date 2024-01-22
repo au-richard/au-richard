@@ -179,7 +179,7 @@ You can click the Preview link to take a look at your changes.
       <strong>Storybook</strong>
     </td>
     <td align="center" height="108" width="80">
-      <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/q1cwqhahz7jbtfzalznd" width="48" height="48" alt="Cypress image" />
+      <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg" width="48" height="48" alt="Cypress image" />
       <br />
       <strong>Cypress</strong>
     </td>

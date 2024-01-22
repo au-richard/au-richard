@@ -60,6 +60,8 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>SQL</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" width="48" height="48" alt="Ruby image" />
       <br />

@@ -113,7 +113,7 @@ You can click the Preview link to take a look at your changes.
       <strong>Ajax</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://banner2.cleanpng.com/20180502/ksq/kisspng-web-development-jquery-ui-javascript-computer-icon-jqlogo-5ae94a5d5e5172.2488375515252383653863.jpg" width="48" height="48" alt="jQuery image" />
+      <img src="https://static-00.iconduck.com/assets.00/jquery-icon-icon-512x507-kvrw1iok.png" width="48" height="48" alt="jQuery image" />
       <br />
       <strong>jQuery</strong>
     </td>

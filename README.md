@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 <table>
   <tr>
-    <td align="center"><strong>MOBILE DEVELOPMENT</strong></td>
+    <td align="center"><strong>Mobile Development</strong></td>
     <td align="center" height="108" width="108">
       <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="48" height="48" alt="Flutter image" />
       <br />
@@ -78,18 +78,18 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>Bootstrap</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
-      <img src="http://weboutsourcing-gateway.com/blog/wp-content/uploads/2020/06/AJAX3.gif" width="48" height="48" alt="Ajax image" />
+      <img src="https://p1.hiclipart.com/preview/627/878/526/ajax-logo-javascript-jquery-xml-asynchrony-data-organization-computer-programming-png-clipart.jpg" width="48" height="48" alt="Ajax image" />
       <br />
       <strong>Ajax</strong>
     </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
       <img src="https://static-00.iconduck.com/assets.00/jquery-icon-icon-512x507-kvrw1iok.png" width="48" height="48" alt="jQuery image" />
       <br />
       <strong>jQuery</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" width="55" height="55" alt="EJS image" />
       <br />

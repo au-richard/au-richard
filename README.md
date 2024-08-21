@@ -124,7 +124,7 @@ You can click the Preview link to take a look at your changes.
       <strong>Bootstrap</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="http://weboutsourcing-gateway.com/blog/wp-content/uploads/2020/06/AJAX3.gif" width="48" height="48" alt="Ajax image" />
+      <img src="https://miro.medium.com/v2/resize:fit:1119/0*EppBJ58XIDlGpzGx.png" width="48" height="48" alt="Ajax image" />
       <br />
       <strong>Ajax</strong>
     </td>

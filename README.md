@@ -123,8 +123,6 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>Bootstrap</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="108" width="108">
       <img src="http://weboutsourcing-gateway.com/blog/wp-content/uploads/2020/06/AJAX3.gif" width="48" height="48" alt="Ajax image" />
       <br />
@@ -135,6 +133,8 @@ You can click the Preview link to take a look at your changes.
       <br />
       <strong>jQuery</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="108" width="108">
       <img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" width="55" height="55" alt="EJS image" />
       <br />

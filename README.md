@@ -114,16 +114,6 @@ You can click the Preview link to take a look at your changes.
       <strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" width="48" height="48" alt="React Native image" />
-      <br />
-      <strong>React Native</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" width="48" height="48" alt="Flutter image" />
-      <br />
-      <strong>Flutter</strong>
-    </td>
-    <td align="center" height="108" width="108">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="58" height="48" alt="SASS image" />
       <br />
       <strong>SASS</strong>
